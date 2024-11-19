@@ -1,0 +1,20 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "/home/joagz/.espressif/tools/xtensa-esp-elf-gdb/14.2_20240403/xtensa-esp-elf-gdb/bin:/home/joagz/.espressif/tools/riscv32-esp-elf-gdb/14.2_20240403/riscv32-esp-elf-gdb/bin:/home/joagz/.espressif/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin:/home/joagz/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20240906/riscv32-esp-elf/bin:/home/joagz/.espressif/tools/esp32ulp-elf/2.38_20240113/esp32ulp-elf/bin:/home/joagz/.espressif/tools/openocd-esp32/v0.12.0-esp32-20241016/openocd-esp32/bin:/home/joagz/.espressif/tools/esp-rom-elfs/20241011",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/home/joagz/.espressif/tools/openocd-esp32/v0.12.0-esp32-20241016/openocd-esp32/share/openocd/scripts",
+        "ESP_ROM_ELF_DIR": "/home/joagz/.espressif/tools/esp-rom-elfs/20241011/"
+    },
+    "idf.espIdfPath": "/home/joagz/esp/esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.port": "/dev/ttyS0",
+    "idf.pythonBinPath": "/home/joagz/.espressif/python_env/idf5.5_py3.12_env/bin/python",
+    "idf.toolsPath": "/home/joagz/.espressif",
+    "files.associations": {
+        "bdc_motor.h": "c",
+        "random": "c"
+    }
+}
